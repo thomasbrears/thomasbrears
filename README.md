@@ -14,7 +14,7 @@ I invite you to look around my github, <a href="https://thomas.brears.xyz" targe
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/thomasbrears" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thomasbrears" height="30" width="40" /></a>
-<a href="https://fb.com/thomasbrears" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thomasbrears" height="30" width="40" /></a>
+<a href="https://fb.com/thomasbrearsnz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thomasbrears" height="30" width="40" /></a>
 <a href="https://instagram.com/thomas_brears" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thomas_brears" height="30" width="40" /></a>
 </p>
 
