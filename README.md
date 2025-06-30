@@ -1,7 +1,7 @@
 <h1 align="center">Kia ora 👋, I'm Thomas Brears</h1>
-<h3 align="center">Final Semester Bachelor of Computer and Information Sciences student, Specialising in Software Development, Networking & Cyber Security and Creative Technologies.</h3>
+<h3 align="center">June 2025 Graduate - Bachelor of Computer and Information Sciences from AUT, Specialising in Software Development, Networking & Cyber Security and Creative Technologies.</h3>
 
-Kia ora, I'm Thomas Brears. I am a passionate individual with an interest in technology. I'm from Aotearoa New Zealand and pursuing a Bachelor of Computer and Information Sciences, majoring in software development and minoring in networking and cybersecurity and Creative Technology at Auckland University of Technology (AUT) and expected to graduate in June 2025
+Kia ora, I'm Thomas Brears. I am a passionate individual with an interest in technology. I'm from Aotearoa New Zealand, and take pride in my Māori whakapapa. I am a recent graduate (June 2025) of a Bachelor of Computer and Information Sciences, majoring in software development, minoring in networking and cybersecurity, and Creative Technologies from Te Wānanga Aronui o Tāmaki Makau Rau - Auckland University of Technology (AUT).
 
 I have been interested in technology since I was young, starting coding and creating basic HTML sites at age 11. My passion for technology has only grown since then, which drove me to pursue formal education and practical experience in the field. I am capable of quickly learning new concepts and technologies, and I succeed in challenging environments.
 
